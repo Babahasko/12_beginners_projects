@@ -3,7 +3,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/babahasko/12_beginners_projects)
 ![GitHub repo size](https://img.shields.io/github/repo-size/babahasko/12_beginners_projects)
 
-It is my beginers projects, where i try to use the basics of python.
+It is my beginers projects, where i use the basics of python.
 ## Different_Madlibs
 It is a project where we use the "f" strings and console input for genereting the **Madlib**. Madlib is a paragraph with blanks. User choose the wrods to fill this blanks. *Finally* we get the result paragraph.
 ## Guess_the_number
