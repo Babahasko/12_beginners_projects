@@ -19,4 +19,8 @@ It is a game where you play with your PC. Yor robo friend guess the number in li
 ### guess_the_number_user
 It is a game where **You** guess the number and your robo friend trying to guess it.
 
+## Hangman
+Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
+You will be presented with a number of blank spaces representing the missing letters you need to find.
+
 
