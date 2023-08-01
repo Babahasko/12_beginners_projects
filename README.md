@@ -29,4 +29,6 @@ You will be presented with a number of blank spaces representing the missing let
 <img src = "https://raw.githubusercontent.com/Babahasko/12_beginners_projects/main/assets/hangman.png" width = "80%">
 </p>
 
+## Tic Tac Toe
+It is a command line version of Tic Tac Toe where you can play with computer, other player or even computer against the computer
 
